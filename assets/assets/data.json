@@ -1,0 +1,188 @@
+{ 
+    "shop": { 
+        "data": [
+            {
+                "id": "1",
+                "name": "Breakfast",
+                "products": [
+                    {
+                        "id": "1",
+                        "name": "Torta \"Garash\"",
+                        "price": "1.99€/pc.",
+                        "description": "This decadent cake is one of the most popular Bulgarian desserts. It consists of five delicate walnut sponges layered with dark chocolate. The whole cake is then covered in a glistening chocolate icing or creamy ganache, decorated with walnuts, desiccated coconut, sliced almonds, or chocolate ornaments.\n\nThe cake was invented by an Austro-Hungarian confectioner Kosta Garash in 1885. At the time, he was working at a lavish hotel in the city of Ruse, where he first served the cake. He later went to Sofia and continued to prepare the cake—which soon became a renowned Bulgarian dessert that is nowadays found on the menus of numerous pâtisseries and restaurants across the country.",
+                        "image_url": "https://cdn.tasteatlas.com/Images/Dishes/ca6fde591bb14f9ca02dd84fd3eec356.jpg?mw=1300"
+                    },
+                    {
+                        "id": "2",
+                        "name": "Banitsa",
+                        "price": "2.49€/pc.",
+                        "description": "This piece of greasy pastry deliciousness can be purchased in bakeries all over the country. Its standard variety includes a filling of feta-like white cheese (сирене, sirene). Banitsa in any of its forms is an inseparable part of a traditional Bulgarian breakfast. Combine it with the thick fermented wheat drink boza for a quintessential Bulgarian experience.\n\nHoliday tip: careful when chewing your piece of banitsa at Christmas or New Year’s Eve! On those dates, banitsa is filled with lucky paper charms which are sometimes easy to chew through. The luckiest piece will contain the coin which means you’ll enjoy a very successful year ahead of you.",
+                        "image_url": "https://cdn.tasteatlas.com//images/dishes/37efaa0e83444f41a0b5d0e849b9ea91.jpg?w=905&h=510"
+                    },
+                    {
+                        "id": "3",
+                        "name": "Baklava",
+                        "price": "1.09€/pc.",
+                        "description": "Baklava is a traditional Bulgarian dessert and surely one of the most favorite ones.\n\nMany would argue that baklava is a Turkish or Greek dessert, and they might be right, however the Bulgarian recipe for baklava is probably the best of them all. Made with filo dough sheets, walnuts, and as syrupy as possible, our baklava is to die for. Get some and try for yourself — you surely will come back for more!",
+                        "image_url": "https://cdn.tasteatlas.com//Images/Dishes/73b88a11c26540f4ae8089692f884ef4.jpg?w=905&h=510"
+                    },
+                    {
+                        "id": "4",
+                        "name": "Ayran",
+                        "price": "0.50€ (0.25L)",
+                        "description": "Ayran is a traditional Balkan yoghurt drink. It is prepared with plain yoghurt, water and a pinch of salt. The Ayran drink is full of prebiotics and has a beautiful silky texture. It is very refreshing, served chilled or with ice.\n\nAyran makes a beautiful accompaniment to any meal. In the Balkans, this yoghurt drink is traditionally served with boreks.",
+                        "image_url": "https://s.routes.tips/v1/AUTH_apps/others/ayran_584818aa383b793e537dc35f.jpeg"
+                    },
+                    {
+                        "id": "5",
+                        "name": "Boza",
+                        "price": "1.25€ (0.5L)",
+                        "description": "This is a great thick drink that Bulgarians usually have with their morning or afternoon breakfast. The perfect combination is made with a piece of cheese banitsa. Boza drink is made of rye, wheat and millet, with some added sugar. In fact, it has 5% alcohol content, but in fact, this does not affect the drink or the person who drinks it.",
+                        "image_url": "https://nashabolgaria.ru/wp-content/uploads/2018/11/boza1.jpg"
+                    }
+                ],
+                "image_url": "https://img3.aksam.com.tr/imgsdisk/2022/04/29/t25_baklava-yaninda-neden-ayr-411.jpg"
+            },
+            {
+                "id": "2",
+                "name": "Salads",
+                "products": [
+                    {
+                        "id": "1",
+                        "name": "Shopska salad",
+                        "price": "2.29€",
+                        "description": "Bulgaria’s internationally-renowned salad is a simple — but effective — combo of diced tomatoes, cucumbers, onions and peppers, with grated sirene cheese and parsley on top. Whether a century-old meal of the Shopi ethnographic group (as the name implies) or a 1950s invention of communist Bulgaria’s state-owned tour operator Balkantourist, Shopska salad is the perfect appetizing companion to a shot of rakia at the start of a Bulgarian meal. Curiously, Shopska salad’s most prominent colours are white (the cheese), green (the cucumbers) and red (the tomatoes and peppers), which match perfectly to the colours of the Bulgarian national flag. A not-so-subtle hint at Shopska salad’s vital role in Bulgarian cuisine.",
+                        "image_url": "https://i0.wp.com/www.kashkaval-tourist.com/wp-content/uploads/2014/03/shopska-kt.jpg?resize=1008%2C672&ssl=1"
+                    },
+                    {
+                        "id": "2",
+                        "name": "Shepherd's salad",
+                        "price": "2.79€",
+                        "description": "Ovcharska (= Shepherd's) salad is a simple variation of the famous Shopska salad. Essentially, it is Shopska salad (cucumbers, tomatoes, onions, peppers, and cheese) with the addition of mushrooms, eggs, and ham. The salad is typically tossed with vegetable oil, left to rest for a few minutes, and it is then ready for consumption.\n\nIt is especially popular in summer due to its refreshing flavors and the usage of seasonal vegetables.",
+                        "image_url": "https://cdn.tasteatlas.com/images/dishes/e6c886df135e47938ab59a83e488f3d7.jpg?mw=1300"
+                    },
+                    {
+                        "id": "3",
+                        "name": "Snezhanka",
+                        "price": "1.99€",
+                        "description": "Named after its predominantly white color, Snezhanka or Snow White is a refreshing salad made with ingredients such as cucumbers, garlic, dill, oil, salt, and the Bulgarian staple – yogurt, in this case – strained to make it thicker.\n\nWalnuts, roasted peppers, and chopped parsley are sometimes added to the salad as a topping, according to personal preferences. Snezhanka is always served cold, either as an appetizer, meze, side dish, or a dip for pita bread. When served as part of a meze, it is traditionally accompanied by alcoholic beverages.",
+                        "image_url": "https://cdn.tasteatlas.com/images/dishes/dc4e64be927d44798b7eddc75c6533e7.jpg?mw=1300"
+                    }
+                ],
+                "image_url": "https://balkanlunchbox.com/wp-content/uploads/2016/04/shopska-salata-main.jpg"
+            },
+            {
+                "id": "3",
+                "name": "Appetizers",
+                "products": [
+                    {
+                        "id": "1",
+                        "name": "Lukanka",
+                        "price": "4.09€ (180g)",
+                        "description": "The most famous cured meat product in Bulgaria is known as lukanka, a traditional, aromatic sausage made with a mixture of minced pork and veal. The sausage is usually heavily spiced with salt, black pepper, hot and sweet peppers, cumin, nutmeg, and coriander.\n\nThe choice and amount of added spices is highly variable and usually depends on the region. The casing for lukanka is usually made from cows' or pigs' intestines, and once completed, it is usually pressed on both sides to develop its traditional, flat shape.",
+                        "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b6839a475ddd4529bacf5ad4f7fa7d60.jpg?w=905&h=510"
+                    },
+                    {
+                        "id": "2",
+                        "name": "Sushenitsa",
+                        "price": "3.99€ (180g)",
+                        "description": "Sushenitsa is another type of a very Bulgarian dry-cured sausage. It’s a cousin of lukanka although it uses a different spices recipe and is dried for longer. It has an excellent taste and goes well as an appetizer for rakia.",
+                        "image_url": "http://www.miti.bg/files/images/article/1170x540/ea2a18e1e6fde08b1d5ddad7bc13a56a.jpeg"
+                    },
+                    {
+                        "id": "3",
+                        "name": "Fillet \"Elena\"",
+                        "price": "6.99€ (280g)",
+                        "description": "File Elena is a dried raw meat product made from chilled or frozen pork tenderloin. The name refers to the city of Elena in northern Bulgaria. When the country was a part of the Ottoman Empire, it was almost impossible to sell pork products for religious reasons.\n\nThe product is salty, yet aromatic and succulent. File Elena has won multiple awards at fairs and exhibitions in Bulgaria and Europe, including the 2010 and 2013 IFFA international exhibitions in Germany. Traditionally, File Elena is served as an appetizer with a glass of wine or beer on the side.",
+                        "image_url": "https://cdn.tasteatlas.com/images/ingredients/d571267230184eba9efaabc2c8dc5371.jpg?mw=1300"
+                    },
+                    {
+                        "id": "4",
+                        "name": "Lyutenitsa",
+                        "price": "3.29€ (260g)",
+                        "description": "Ask a Bulgarian and they would say this thick relish of tomatoes and peppers is the best thing you can spread on your toast. Nowadays it is commercially produced and sold in small jars, though it is still commonly made at home by many Bulgarian families. When you can smell the aroma of roasting peppers emanating from balconies throughout the country in autumn, you know homemade lyutenitsa season is soon to be upon you!\n\nLyutenitsa is always going to be at least somewhat hot in taste, to which it owes it name… and its popularity.",
+                        "image_url": "https://i0.wp.com/www.kashkaval-tourist.com/wp-content/uploads/2014/03/lyutenitsa.jpg?resize=1008%2C672&ssl=1"
+                    },
+                    {
+                        "id": "5",
+                        "name": "Kashkaval pane",
+                        "price": "3.09€ (250g)",
+                        "description": "Kashkaval pane is the name for Bulgarian fried cheese. It's made by breading and frying yellow kashkaval cheese. This sheep's milk cheese is semi-hard in texture, and it's especially well-suited for cooking, grating, and melting. Kashkaval pane is often served as an appetizer in pubs or a street food item that's beloved for its portability.",
+                        "image_url": "https://cdn.tasteatlas.com//images/dishes/9e3730735ec04e48adf80002337c11a7.jpg?w=905&h=510"
+                    }
+                ],
+                "image_url": "https://m.media-amazon.com/images/I/61W2GguodXL.jpg"
+            },
+            {
+                "id": "4",
+                "name": "Grill",
+                "products": [
+                    {
+                        "id": "1",
+                        "name": "Kebapche",
+                        "price": "0.65€ (80g)",
+                        "description": "The Bulgarian kebapche is the perfect side dish to a glass of cold Bulgarian beer on a summer day. Though Bulgarians may argue about that, whether the beer is a Kamenitza or a Zagorka makes no big difference. The important part is that the kebapcheta are at least three and include some kind of sides, usually French fries with grated sirene cheese on top, to make the classic “three kebapcheta with sides” (тройка кебапчета с гарнитура, troyka kebapcheta s garnitura).",
+                        "image_url": "https://i0.wp.com/www.kashkaval-tourist.com/wp-content/uploads/2014/03/kebapche-2.jpg?resize=1008%2C672&ssl=1"
+                    },
+                    {
+                        "id": "2",
+                        "name": "Kyufte",
+                        "price": "0.65€ (80g)",
+                        "description": "Kyufte is not just your average meatball. You might assume kebapche’s eternal rival is basically the same meat in a different shape… But first of all, unlike a kebapche, a kyufte will typically have pieces of onion mixed in with the minced meat. Parsley is also a regular addition, in contrast to kebapche. And finally, kyufteta are not necessarily grilled (which is the rule with kebapcheta) – in fact, every Bulgarian seems to claim their mother’s home-fried kyufte recipe is the best!",
+                        "image_url": "https://gozbi.lyusil.com/wp-content/uploads/2017/05/Kiufteta-na-skara-7.jpg"
+                    },
+                    {
+                        "id": "3",
+                        "name": "Meat skewer",
+                        "price": "1.29€ (100g)",
+                        "description": "Shishche (Grilled meat pieces on spits) is a delicious dish, prepared on barbeque. It is very popular all over the country. Shishche is certainly present in the menu of every picnic in nature, along with kebapches, meat balls and steaks.\n\nThese types of dishes are mostly related to pleasant picnics in nature, and their preparation is a part of a pleasant experience.",
+                        "image_url": "https://cdn.theculturetrip.com/wp-content/uploads/2018/05/meat-3434398_1920-1024x584.jpg"
+                    },
+                    {
+                        "id": "4",
+                        "name": "Grill mix",
+                        "price": "8.99€ (600g)",
+                        "description": "The Meshana Skara is the holy grail of Bulgarian food, especially if you love meat. The mixed grill includes the classic kebapche, and other meats like kyufte, skewers of pork meat and a pork steak.\n\nBulgarian cafes and restaurants usually serve meshana skara with fries on the side, and the lyutenitsa paste. Of course, you gotta wash the meal down with a beer!",
+                        "image_url": "https://imgrabo.com/pics/guide/900x600/20201125164419_26790.jpeg"
+                    }
+                ],
+                "image_url": "https://bulgariancooking.com/wp-content/uploads/2016/09/Bulgarian_barbecue_E1.jpg"
+            },
+            {
+                "id": "5",
+                "name": "Soups",
+                "products": [
+                    {
+                        "id": "1",
+                        "name": "Shkembe chorba",
+                        "price": "5.99€",
+                        "description": "It takes more than a bit of guts to try this tripe soup, whether because tripe is a somewhat unusual offal to be used in a soup or because of the way shkembe chorba is customarily generously spiced. You are expected to add vinegar, oil, salt and crude pepper to taste – though you will discover that to Bulgarians this usually means in generous quantities.\n\nCherished as a hangover remedy, shkembe chorba is offered by many small restaurants and is often consumed by companies during the early hours of the morning right after a night of binge drinking. And because shkembe chorba is very difficult to eat without a cold beer to accompany the hot sips, this anti-hangover strategy naturally fits with the “fight fire with fire” hangover cure that is a beer after a heavy night out.",
+                        "image_url": "https://i0.wp.com/www.kashkaval-tourist.com/wp-content/uploads/2014/03/shkembe-1.jpg?resize=1008%2C672&ssl=1"
+                    },
+                    {
+                        "id": "2",
+                        "name": "Tarator soup",
+                        "price": "2.29€ (350mL)",
+                        "description": "Tarator and the previous soup on the menu, shkembe chorba, couldn’t be any more different. Unlike shkembe chorba’s firey spiciness, tarator is light, refreshing and cold. A yogurt-based soup of cucumbers, garlic, dill and sometimes walnuts (and even ice cubes!), tarator is a must in those scorching summer days when, say, the sun has forced you into the cool shade of a small restaurant on the Black Sea coast.\n\nTarator is also a great introduction to the renowned Bulgarian yoghurt, famous the world over for its health benefits. You may also like to try Snezhanka (Snow-White), the salad version of tarator which uses strained instead of watered-down yoghurt and is quite similar to Greek tzatziki and Turkish cacık.",
+                        "image_url": "https://i0.wp.com/www.kashkaval-tourist.com/wp-content/uploads/2014/03/tarator-2.jpg?resize=1008%2C672&ssl=1"
+                    },
+                    {
+                        "id": "3",
+                        "name": "Meatball soup",
+                        "price": "4.89€",
+                        "description": "This classic Bulgarian soup consists of beef or pork meatballs cooked in a flavorful broth alongside various vegetables. The tender meatballs mostly incorporate rice, onions, and a variety of spices, and the broth is usually thickened with yogurt or eggs, and typically seasoned with lemon juice.\n\nTraditionally associated with Christmas time, this comforting, creamy soup is a staple dish enjoyed on many special occasions, generously garnished with parsley and usually served alongside bread.",
+                        "image_url": "https://c8.alamy.com/zooms/9/ea12155d912344e1956b7630e1bb0c69/km9f18.jpg"
+                    },
+                    {
+                        "id": "4",
+                        "name": "Bean soup",
+                        "price": "3.39€",
+                        "description": "Bob chorba is a soup prepared with Bulgarian varieties of white and kidney beans, onions, peppers, tomatoes, carrots, and mint. Additional ingredients include bell peppers, paprika, potatoes, and meat, but the soup can be made with almost any available ingredient.\n\nBob chorba is traditionally served hot in earthenware bowls, and it is recommended to garnish it with chopped parsley or grated cheese.",
+                        "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4fba5dece100421cb3657fd676bde445.jpg?w=905&h=510"
+                    }
+                ],
+                "image_url": "https://www.agrodolce.it/app/uploads/2020/03/shutterstock-262715768.jpg"
+            }
+        ] 
+    }
+}
