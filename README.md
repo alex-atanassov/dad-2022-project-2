@@ -1,4 +1,5 @@
-# DAD 2022 - E-commerce platform "Karadazzi Deliveries"
+# Aalto University
+# E-commerce platform "Karadazzi Deliveries"
 
 Second Flutter project for the course **"CS-E4270 - Device-Agnostic Design D"**, held at Aalto University, A.Y. 2022/2023 (Period I).
 
@@ -7,6 +8,11 @@ The project consists in implementing the frontend of an online web store. In thi
 **Faculty**: Mika P. Nieminen, Arto Hellas
 
 **Deployed online version**: https://alex-atanassov.github.io/dad-2022-project-2/
+
+<div display="inline-block">
+<img src="https://github.com/alex-atanassov/dad-2022-project-2/assets/79805163/7b6978e9-01a9-4dda-8f7c-e4033e6b40fc" width=78.7% />
+<img src="https://github.com/alex-atanassov/dad-2022-project-2/assets/79805163/9b0f99a0-b06f-4d61-910f-f7a3ea9d4b5c" width=19.5% />
+</div>
 
 ## Functionality
 
